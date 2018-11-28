@@ -12,13 +12,3 @@
     font-size: 3em;
 }
 
-button{
-    
-    background: transparent;
-    border-radius: 20%
-}
-
-.buttons{
-    display: flex;
-    justify-content: space-around ;
-}
